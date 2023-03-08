@@ -1,0 +1,15 @@
+Requirements
+
+
+Must Have
+- Add a new type of bean to the application
+- View a bean's information
+- Add extractions to a bean
+- View a list of all extractions of a bean
+
+
+Should Have
+- View a specific extraction of a bean
+
+Could Have
+- Have a user profile
